@@ -3,6 +3,10 @@ bayesian-methods-for-hackers
 
 Explorations of Bayesian methods with the guidance of the book Bayesian Methods for Hackers by Cameron Davidson-Pilon
 
+See visualisation files:
+* `src/visualization/thinning_autocorrelation.py`
+* `src/visualization/priors_posteriors.py`
+
 Project Organization
 ------------
 
